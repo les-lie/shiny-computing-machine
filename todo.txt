@@ -4,3 +4,4 @@
 [ ] NETFLIX!!!
 [x] Ice Cream Sandwich
 [ ] Wine
+[ ] Leave again to walk the dog
