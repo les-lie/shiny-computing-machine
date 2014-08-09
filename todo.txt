@@ -1,6 +1,6 @@
-[ ] Walk the Dog
+[x] Walk the Dog
 [ ] Wash the Dishes
 [ ] Water the plants
-[ ] NETFLIX!!!
-[ ] Ice Cream Sandwich
+[  NETFLIX!!!
+[x] Ice Cream Sandwich
 [ ] Wine
